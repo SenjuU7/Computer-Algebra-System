@@ -38,12 +38,6 @@ This project is intended as:
 
 ---
 
-## 🔹 Ultra-Short Description (kalau mau simpel)
-
-> **Symbolic expression tree evaluator with complex numbers in Rust.**
-
----
-
 ## 🔹 Tags / Topics (GitHub Topics)
 
 Tambahin ini biar kelihatan niat:
