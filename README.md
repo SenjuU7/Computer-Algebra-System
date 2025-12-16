@@ -40,8 +40,6 @@ This project is intended as:
 
 ## 🔹 Tags / Topics (GitHub Topics)
 
-Tambahin ini biar kelihatan niat:
-
 ```
 rust
 symbolic-math
